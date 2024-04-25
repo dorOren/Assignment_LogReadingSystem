@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: assignment
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 200MB
+  data:
+    mongodb:
+      uri: mongodb+srv://xxx:xxx@cluster0.wvv1g6k.mongodb.net/
+      database: sample_mflix
