@@ -25,7 +25,7 @@ Queue for DB requests – only two requests can be addressed simultaneously. All
 # I created this project using some of the knowledge I gained in:
 - Java & SpringBoot
 - Docker
-- Data Structures (B-Tree)
+- Data Structures (Tree)
 - Multithreading
 - JUnit
 
